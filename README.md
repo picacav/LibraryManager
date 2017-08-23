@@ -1,1 +1,1 @@
-This a work shop for react and redux by following course from Pluralsight
+This a work shop for react and redux by following course from Pluralsight!
